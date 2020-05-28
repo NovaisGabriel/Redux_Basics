@@ -1,6 +1,6 @@
 <h1>Redux Basics</h1>
 
-<p>Link Útil: <a>https://redux.js.org/</a></p>
+<p>Link Útil: <a href="https://redux.js.org/">https://redux.js.org/</a></p>
 
 <p>Repositório destinado ao estudo de conceitos básicos do Redux. O conteúdo do repositório foi gerado a partir de curso online.
 </p>
