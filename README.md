@@ -25,7 +25,7 @@
 <p><b>1-Instalação:</b></p>
 <p><code>npm install redux</code></p>
 
-<p><b>Criando React Redux App</b></p>
+<p><b>2-Criando React Redux App</b></p>
 <p><code>npx create-react-app my-app --template redux</code></p>
 
 <p><b>Exemplos de projetos no link abaixo</b></p>
